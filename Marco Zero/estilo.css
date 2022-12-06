@@ -1,0 +1,18 @@
+header {
+	background:white;
+}
+body {
+	background: #008B8B;
+}
+ul{
+	display: inline-block;
+	list-style-type: none;
+	padding: 20px;
+    text-align: center;
+}
+li{
+	text-align: center;
+}
+main{
+	background: white;
+}
